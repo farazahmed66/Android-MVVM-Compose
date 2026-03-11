@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_completed"
+        android:icon="@drawable/ic_article"
+        android:title="@string/completed_challenge"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_authored"
+        android:icon="@drawable/ic_article"
+        android:title="@string/authored_challenge"
+        app:showAsAction="always" />
+</menu>
